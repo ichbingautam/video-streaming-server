@@ -1,6 +1,4 @@
-# Golang - Video and Audio Streaming Server (Sorry, no time now to work on this...)
-
-[![License](https://img.shields.io/dub/l/vibe-d.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/P-A-R-U-S/Go-Streaming-Server)](https://goreportcard.com/report/github.com/P-A-R-U-S/Go-Streaming-Server) [![Travis-CI](https://travis-ci.org/P-A-R-U-S/Go-Streaming-Server.svg?branch=master)](https://travis-ci.org/P-A-R-U-S/Go-Streaming-Server)
+# Golang - Video and Audio Streaming Server 
 
 ### Live Audio and Video Streaming Server and Clients in Golang/Go
 
